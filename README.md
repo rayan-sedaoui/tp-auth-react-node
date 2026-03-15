@@ -37,7 +37,7 @@ Si les identifiants sont corrects, l'accès est déverrouillé et l'utilisateur 
 ## 🛠️ Technologies Utilisées
 - **Frontend** : React.js (Vite), React Router DOM, Axios.
 - **Backend** : Node.js, Express.js.
-- **Base de données** : [Ajoute ici MongoDB ou MySQL].
+- **Base de données** : MySQL.
 
 ## ⚙️ Installation et Lancement
 
